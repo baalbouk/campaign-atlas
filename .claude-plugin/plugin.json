@@ -1,0 +1,24 @@
+{
+    "name": "campaign-atlas",
+    "version": "1.0.0",
+    "description": "Reverse-engineer the world's most awarded marketing campaigns. Five skills for finding, dissecting, and stealing from the global elite — Cannes Lions, Effies, D&AD, WARC, One Show, Webby. Web-first, MCP-optional, primary-source cited.",
+    "author": {
+          "name": "Bold Creatives",
+          "url": "https://github.com/baalbouk"
+    },
+    "homepage": "https://github.com/baalbouk/campaign-atlas",
+    "repository": "https://github.com/baalbouk/campaign-atlas",
+    "license": "MIT",
+    "keywords": [
+          "marketing",
+          "advertising",
+          "campaigns",
+          "creative",
+          "research",
+          "cannes-lions",
+          "effie",
+          "warc",
+          "brand-strategy",
+          "swipe-file"
+    ]
+}
